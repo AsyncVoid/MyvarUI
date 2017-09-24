@@ -1,0 +1,8 @@
+/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/bin/Debug/netcoreapp1.1/MyvarUI.deps.json
+/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/bin/Debug/netcoreapp1.1/MyvarUI.runtimeconfig.json
+/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/bin/Debug/netcoreapp1.1/MyvarUI.runtimeconfig.dev.json
+/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/obj/Debug/netcoreapp1.1/MyvarUI.AssemblyInfo.cs
+/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/bin/Debug/netcoreapp1.1/MyvarUI.dll
+/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/bin/Debug/netcoreapp1.1/MyvarUI.pdb
+/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/obj/Debug/netcoreapp1.1/MyvarUI.dll
+/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/obj/Debug/netcoreapp1.1/MyvarUI.pdb

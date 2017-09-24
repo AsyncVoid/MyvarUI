@@ -1,0 +1,33 @@
+// Myvar Ui Defintion Laguage (mudle)
+
+
+root-window : rectangle
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+    green-rect : rectangle
+    {
+        x: 10px;
+        y: 10px;
+
+        width: 10px;
+        height: 10px;
+
+        background-color: green;
+    }
+
+    hello-world : text
+    {
+        x: 10px;
+        y: 35px;
+
+        width: 100px;
+        height: 100px;
+
+        foreground-color: blue;
+
+        value: "Hello World";
+    }
+}
